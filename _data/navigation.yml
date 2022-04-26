@@ -1,22 +1,26 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+
+  - title: "Papers"
+    url: https://alexblnn.github.io/#papers
+    
+  - title: "Software"
+    url: https://alexblnn.github.io/#software
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: https://alexblnn.github.io/#talks
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Education"
+    url : https://alexblnn.github.io/#education
+    
+ # - title: "Portfolio"
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Blog Posts"
+ #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
