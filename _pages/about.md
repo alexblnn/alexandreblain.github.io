@@ -12,7 +12,7 @@ I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal
 
 # Papers
 
-**Notip: Non-parametric True Discovery Proportion estimation for brain imaging**, A. Blain, B. Thirion, P. Neuvial. Preprint on [arXiv](https://arxiv.org/abs/2204.10572) and on [HAL](https://hal.archives-ouvertes.fr/hal-03649114)
+**Notip: Non-parametric True Discovery Proportion estimation for brain imaging**, A. Blain, B. Thirion, P. Neuvial. Preprint: [arXiv](https://arxiv.org/abs/2204.10572) and [HAL](https://hal.archives-ouvertes.fr/hal-03649114)
 
 # Software
 
