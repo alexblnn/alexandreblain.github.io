@@ -10,11 +10,13 @@ redirect_from:
 
 I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal/) and [Institut de Mathématiques de Toulouse (CNRS)](https://www.math.univ-toulouse.fr/?lang=en). I work under the supervision of [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/) and [Pierre Neuvial](https://www.math.univ-toulouse.fr/~pneuvial/) on statistics and machine learning for brain imaging (functional MRI).
 
-# Papers and software
+# Papers
 
 **Notip: Non-parametric True Discovery Proportion estimation for brain imaging**, A. Blain, B. Thirion, P. Neuvial. [Preprint on arXiv](https://arxiv.org/abs/2204.10572)
 
-sanssouci.python package, L. Risser, P. Neuvial, A. Blain, B. Thirion, [repo](https://github.com/pneuvial/sanssouci.python)
+# Software
+
+**sanssouci.python package**, L. Risser, P. Neuvial, A. Blain, B. Thirion, [repo](https://github.com/pneuvial/sanssouci.python)
 
 # Talks
 
