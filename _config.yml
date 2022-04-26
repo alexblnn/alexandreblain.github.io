@@ -11,7 +11,7 @@ title                    : "Alexandre Blain"
 title_separator          : "-"
 name                     : &name "Alexandre Blain"
 description              : 
-url                      : https://alexandreblain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexblnn.github.io/alexandreblain.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexandreblain.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "alexandre.blain[at]inria.fr"
+  email            : "alexandre.blain@inria.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
