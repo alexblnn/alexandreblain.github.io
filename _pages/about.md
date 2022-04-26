@@ -20,7 +20,7 @@ I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal
 
 # Talks
 
-**Adaptive post-hoc bounds for fMRI inference**, March 2022, ANR SansSouci workshop, Institut de Mathématiques de Toulouse.
+**Adaptive post-hoc bounds for fMRI inference**, March 2022, ANR SansSouci workshop, [Institut de Mathématiques de Toulouse (CNRS)](https://www.math.univ-toulouse.fr/?lang=en).
 
 **Post hoc approach for multiple testing in brain imaging**, February 2022, [Institut Henri Poincaré](http://www.ihp.fr/en), Paris.
 
