@@ -12,7 +12,7 @@ I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal
 
 # Papers
 
-**Notip: Non-parametric True Discovery Proportion estimation for brain imaging**, A. Blain, B. Thirion, P. Neuvial. [Preprint on arXiv](https://arxiv.org/abs/2204.10572)
+**Notip: Non-parametric True Discovery Proportion estimation for brain imaging**, A. Blain, B. Thirion, P. Neuvial. [Preprint on arXiv](https://arxiv.org/abs/2204.10572) and on [HAL](https://hal.archives-ouvertes.fr/hal-03649114)
 
 # Software
 
@@ -22,7 +22,7 @@ I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal
 
 **Adaptive post-hoc bounds for fMRI inference**, March 2022, ANR SansSouci workshop, Institut de Mathématiques de Toulouse.
 
-**Post hoc approach for multiple testing in brain imaging**, February 2022, YSP 2022, Institut Henri Poincaré, Paris.
+**Post hoc approach for multiple testing in brain imaging**, February 2022, [Institut Henri Poincaré](http://www.ihp.fr/en), Paris.
 
 # Education
 
