@@ -22,8 +22,6 @@ sanssouci.python package, L. Risser, P. Neuvial, A. Blain, B. Thirion, [repo](ht
 
 **Post hoc approach for multiple testing in brain imaging**, February 2022, YSP 2022, Institut Henri Poincaré, Paris.
 
-# Packages
-
 # Education
 
 * PhD, Inria Parietal, Université Paris-Saclay, Palaiseau, France, 2021 -
