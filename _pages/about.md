@@ -12,7 +12,7 @@ I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal
 
 # Papers
 
-**Notip: Non-parametric True Discovery Proportion estimation for brain imaging**, A. Blain, B. Thirion, P. Neuvial. Preprint: [arXiv](https://arxiv.org/abs/2204.10572) and [HAL](https://hal.archives-ouvertes.fr/hal-03649114)
+**Notip: Non-parametric True Discovery Proportion control for brain imaging**, A. Blain, B. Thirion, P. Neuvial. NeuroImage, 119492. [Full text](https://doi.org/10.1016/j.neuroimage.2022.119492)
 
 # Software
 
@@ -20,7 +20,7 @@ I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal
 
 # Talks
 
-**Notip: Non-parametric True Discovery Proportion estimation for brain imaging**, June 2022, [Inria Parietal](https://team.inria.fr/parietal/) team meeting
+**Notip: Non-parametric True Discovery Proportion control for brain imaging**, June 2022, [Inria Parietal](https://team.inria.fr/parietal/) team meeting
 
 **Adaptive post-hoc bounds for fMRI inference**, March 2022, ANR SansSouci workshop, [Institut de Mathématiques de Toulouse (CNRS)](https://www.math.univ-toulouse.fr/?lang=en).
 
@@ -28,10 +28,10 @@ I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal
 
 # Education
 
-* PhD, Inria Parietal, Université Paris-Saclay, Palaiseau, France, 2021 -
+* PhD in Maths/Computer Science, Inria Parietal, Université Paris-Saclay, Palaiseau, France, 2021 -
 
-* Master 2 MVA "Mathématiques, Vision et Apprentissage", Ecole Normale Supérieure Paris-Saclay, Gif-sur-Yvette, France, 2020-2021.
+* Research Master 2 MVA "Mathématiques, Vision et Apprentissage", Ecole Normale Supérieure Paris-Saclay, Gif-sur-Yvette, France, 2020-2021.
 
-* Diplôme d'Ingénieur, ENSAE Paris, Data Science Statistics and ML track, Palaiseau, France, 2018-2021.
+* Engineer, Statistician and Economist diploma, ENSAE Paris, Data Science Statistics and ML track, Palaiseau, France, 2018-2021.
 
-* Classe Préparatoire aux Grandes Écoles, Lycée Bellevue, Toulouse, France, 2015-2018.
+* Classe Préparatoire aux Grandes Écoles, Maths and Physics, Lycée Bellevue, Toulouse, France, 2015-2018.
