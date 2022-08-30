@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first year PhD student at [Inria Parietal](https://team.inria.fr/parietal/) and [Institut de Mathématiques de Toulouse (CNRS)](https://www.math.univ-toulouse.fr/?lang=en). I work under the supervision of [Bertrand Thirion](https://pages.saclay.inria.fr/bertrand.thirion/) and [Pierre Neuvial](https://www.math.univ-toulouse.fr/~pneuvial/) on statistics and machine learning for brain imaging (functional MRI).
 
-I previously studied Statistics and Machine Learning at [ENSAE Paris](https://www.ensae.fr/en) and at [Master MVA](https://www.master-mva.com/) hosted by [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en).
+I previously studied Statistics and Machine Learning at [ENSAE Paris](https://www.ensae.fr/en) and at [Master MVA](https://www.master-mva.com/)(Mathematics, Vision and Learning) hosted by [École Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr/en).
 
 # Papers
 
@@ -32,7 +32,7 @@ I previously studied Statistics and Machine Learning at [ENSAE Paris](https://ww
 
 * PhD in Maths/Computer Science, Inria Parietal, Université Paris-Saclay, Palaiseau, France, 2021 -
 
-* Research Master 2 MVA "Mathématiques, Vision et Apprentissage", Ecole Normale Supérieure Paris-Saclay, Gif-sur-Yvette, France, 2020-2021.
+* Research Master 2 MVA "Mathematics, Vision and Learning", Ecole Normale Supérieure Paris-Saclay, Gif-sur-Yvette, France, 2020-2021.
 
 * Engineer, Statistician and Economist diploma, ENSAE Paris, Data Science Statistics and ML track, Palaiseau, France, 2018-2021.
 
