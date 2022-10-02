@@ -22,9 +22,13 @@ I previously studied Statistics and Machine Learning at [ENSAE Paris](https://ww
 
 # Talks
 
-**Notip: Non-parametric True Discovery Proportion control for brain imaging**, June 2022, [Inria Parietal](https://team.inria.fr/parietal/) team meeting
+**Notip: Non-parametric True Discovery Proportion control for brain imaging**, September 2022, [ANR Fast-Big workshop](https://anr.fr/Project-ANR-17-CE23-0011), Paris
 
-**Adaptive post-hoc bounds for fMRI inference**, March 2022, ANR SansSouci workshop, [Institut de Mathématiques de Toulouse (CNRS)](https://www.math.univ-toulouse.fr/?lang=en).
+**Notip: Non-parametric True Discovery Proportion control for brain imaging**, August 2022, [MCP conference](https://www.mcp-conference.org/), Bremen, Germany
+
+**Notip: Non-parametric True Discovery Proportion control for brain imaging**, June 2022, [Inria Parietal](https://team.inria.fr/parietal/) team meeting, Paris
+
+**Adaptive post-hoc bounds for fMRI inference**, March 2022, [ANR SansSouci workshop](https://anr.fr/Projet-ANR-16-CE40-0019), [Institut de Mathématiques de Toulouse (CNRS)](https://www.math.univ-toulouse.fr/?lang=en).
 
 **Post hoc approach for multiple testing in brain imaging**, February 2022, [Institut Henri Poincaré](http://www.ihp.fr/en), Paris.
 
