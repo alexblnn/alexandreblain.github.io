@@ -20,6 +20,8 @@ I previously studied Statistics and Machine Learning at [ENSAE Paris](https://ww
 
 **sanssouci.python package**, L. Risser, P. Neuvial, A. Blain, B. Thirion, [repo](https://github.com/pneuvial/sanssouci.python)
 
+**Notip**, A. Blain, B. Thirion, P. Neuvial, [repo](https://github.com/alexblnn/Notip)
+
 # Talks
 
 **Notip: Non-parametric True Discovery Proportion control for brain imaging**, December 2022, [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/)
