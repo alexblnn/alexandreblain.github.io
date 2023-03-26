@@ -22,6 +22,8 @@ I previously studied Statistics and Machine Learning at [ENSAE Paris](https://ww
 
 # Talks
 
+**Notip: Non-parametric True Discovery Proportion control for brain imaging**, December 2022, [International Seminar on Selective Inference]([https://anr.fr/Project-ANR-17-CE23-0011](https://www.selectiveinferenceseminar.com/))
+
 **Notip: Non-parametric True Discovery Proportion control for brain imaging**, September 2022, [ANR Fast-Big workshop](https://anr.fr/Project-ANR-17-CE23-0011), Paris
 
 **Notip: Non-parametric True Discovery Proportion control for brain imaging**, August 2022, [MCP conference](https://www.mcp-conference.org/), Bremen, Germany
