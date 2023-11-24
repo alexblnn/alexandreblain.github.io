@@ -47,10 +47,10 @@ I previously studied Statistics and Machine Learning at [ENSAE Paris](https://ww
 
 # Education
 
-* PhD in Maths/Computer Science, Inria Parietal, Université Paris-Saclay, Palaiseau, France, 2021 -
+* PhD in Maths/Computer Science, Inria Parietal, Université Paris-Saclay, Paris, France, 2021 - 2024
 
-* Research Master 2 MVA "Mathematics, Vision and Learning", Ecole Normale Supérieure Paris-Saclay, Gif-sur-Yvette, France, 2020-2021.
+* Research Master 2 MVA "Mathematics, Vision and Learning", Ecole Normale Supérieure Paris-Saclay, Paris, France, 2020-2021.
 
-* Engineer, Statistician and Economist diploma, ENSAE Paris, Data Science Statistics and ML track, Palaiseau, France, 2018-2021.
+* Engineer, Statistician and Economist diploma, ENSAE Paris, Data Science Statistics and ML track, Paris, France, 2018-2021.
 
 * Classe Préparatoire aux Grandes Écoles, Maths and Physics, Lycée Bellevue, Toulouse, France, 2015-2018.
