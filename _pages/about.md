@@ -16,13 +16,22 @@ I previously studied Statistics and Machine Learning at [ENSAE Paris](https://ww
 
 **Notip: Non-parametric True Discovery Proportion control for brain imaging**, A. Blain, B. Thirion, P. Neuvial. **NeuroImage**, 119492. [Full text](https://doi.org/10.1016/j.neuroimage.2022.119492)
 
+**False Discovery Proportion control for aggregated Knockoffs**, A. Blain, B. Thirion, O.Grisel, P. Neuvial. **NeurIPS 2023**. [Full text](https://arxiv.org/abs/2310.10373)
+
+
 # Software
 
 **sanssouci.python package**, L. Risser, P. Neuvial, A. Blain, B. Thirion, [repo](https://github.com/pneuvial/sanssouci.python)
 
 **Notip**, A. Blain, B. Thirion, P. Neuvial, [repo](https://github.com/alexblnn/Notip)
 
+**KOPI**, A. Blain, B. Thirion, P. Neuvial, [repo](https://github.com/alexblnn/KOPI)
+
 # Talks
+
+**False Discovery Proportion control for aggregated Knockoffs**, November 2023, [Inria Parietal](https://team.inria.fr/parietal/) team meeting, Paris
+
+**False Discovery Proportion control for aggregated Knockoffs**, September 2023, [ANR Fast-Big workshop](https://anr.fr/Project-ANR-17-CE23-0011) @ [Institut Henri Poincaré](http://www.ihp.fr/en), Paris
 
 **Notip: Non-parametric True Discovery Proportion control for brain imaging**, December 2022, [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/)
 
