@@ -31,7 +31,7 @@ I previously studied Statistics and Machine Learning at [ENSAE Paris](https://ww
 
 **False Discovery Proportion control for aggregated Knockoffs**, November 2023, [Inria Parietal](https://team.inria.fr/parietal/) team meeting, Paris
 
-**False Discovery Proportion control for aggregated Knockoffs**, September 2023, [ANR Fast-Big workshop](https://anr.fr/Project-ANR-17-CE23-0011) @ [Institut Henri Poincaré](http://www.ihp.fr/en), Paris
+**False Discovery Proportion control for aggregated Knockoffs**, September 2023, [ANR Fast-Big workshop](https://project.inria.fr/fastbig/stats-workshop-october-19th-2023/) @ [Institut Henri Poincaré](http://www.ihp.fr/en), Paris
 
 **Notip: Non-parametric True Discovery Proportion control for brain imaging**, December 2022, [International Seminar on Selective Inference](https://www.selectiveinferenceseminar.com/)
 
